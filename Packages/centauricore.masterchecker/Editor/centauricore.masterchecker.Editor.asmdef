@@ -1,0 +1,14 @@
+{
+  "name": "centauricore.masterchecker.Editor",
+  "references": [
+    "centauricore.masterchecker"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

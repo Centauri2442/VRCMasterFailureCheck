@@ -1,0 +1,16 @@
+{
+  "name": "centauricore.masterchecker",
+  "displayName": "CentauriCore - Master Failure Check",
+  "version": "1.0.0",
+  "description": "VRChat Master Failure Checker",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Centauri",
+    "email": "centauri2442@gmail.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\Unity\\Projects\\Network Debugger\\Packages\\centauricore.masterchecker"
+}
