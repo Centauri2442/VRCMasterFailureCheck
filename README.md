@@ -2,7 +2,7 @@
 #### MasterFailureCheck is a VRChat drag and drop prefab that allows developers to easily detect if players in the instance have lost their network connection to VRChat, allowing them to then handle the issue as needed. The relevant canny to fix the underlying issue can be found [HERE](https://feedback.vrchat.com/udon/p/master-sleeping-quest-potential-networking-issues-and-they-can-sleep-for-more-th)
 ---
 ## Setup
-1) Drag and drop the "Failure Checker" prefab into your scene (Make sure to only have 1!)
+1) Drag and drop the "Failure Checker" prefab into your scene
 2) Assign any behaviours you want the "OnMasterFailure" event to fire on into the array
 ---
 Copyright 2024 CentauriCore
